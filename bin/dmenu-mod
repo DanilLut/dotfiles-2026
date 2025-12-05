@@ -1,0 +1,1 @@
+j4-dmenu-desktop --dmenu="dmenu-wl -i -h 44 -nb '#101010' -sf '#ffffff' -sb '#181818' -nf '#555555' -fn 'JetBrainsMono Nerd Font 12' -b"
